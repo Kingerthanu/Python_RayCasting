@@ -1,5 +1,9 @@
 # RayCasting
-Old project where I was testing Some russian video on Raycasting. You kinda walk fast to watch out on that. I have been slowly making raycasters and stopping midway through on languages like C++ as I've been moving languages but may try with OpenGL next as I see C++ as my primary language. Still probably one of my nicer looking rasters amidst its spaghetti.
+Old project where I was testing Some russian video on Raycasting. 
+
+<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/8a2bde70-3ab0-4929-8b61-12c439003e32" alt="Cornstarch <3" width="95" height="99">
+
+You kinda walk fast to watch out on that. I have been slowly making raycasters and stopping midway through on languages like C++ as I've been moving languages but may try with OpenGL next as I see C++ as my primary language. Still probably one of my nicer looking rasters amidst its spaghetti.
 
 ![2024-01-0923-37-28-ezgif com-optimize](https://github.com/Kingerthanu/RayCasting/assets/76754592/5ff253b4-c88e-485d-aeb0-b7c9847e5ccf)
 ![3DRaster1](https://github.com/Kingerthanu/RayCasting/assets/76754592/039fcd9b-f984-4cd1-bae4-c0d142ebce6e)
