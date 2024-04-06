@@ -12,7 +12,11 @@ You kinda walk fast to watch out on that. I have been slowly making raycasters a
 
 **The Breakdown:**
 
+  This Program Works With Python And Its Pygame Library To Generate A Raycasting Engine Based Upon A 2D-Voxel-Map.
 
+  While This Project Is Quite Dull In Features, It Was My First Actual PROJECT Where I Saw Myself Making A Multi-Object Program With More Intuitive Design And Modularity. While I Did Follow A Russian Video That I Couldn't Understand, At Least He Wrote His Code In English So It Really Challenged Me To Really Interpret What He Was Doing And Why. I Think This Really Benefitted Me In Development In My Later Projects As Coming Out Of This I Generally Saw How Windows ACTUALLY Work As Well As How We Draw A Window With Some Shape/Design. While Previously I Thought It Was Some Black Magic Voodoo WitchCraft, It Was Intruiging To See Actually How We Request Something Like A Window To Draw A Square Throughout These Given Coordinates With "R,G,B" Color Values.
+
+  This Video Also Taught Me A Lot Of Good-Practice Decisions As Making Constants For Our Player Settings In Their Own File Was A Smart Move As It Allowed For A Non-Volatile Session Of Our Game. While This Isn't Really Necessary In Something Quite Hard-Coded As This Program In Its Current State, It Did At Least Get Me Comfortable With Some Concepts That I Do See Myself Using In Newer More Depthful Projects With Multi-Hierachical Relationships.
 
 <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49">
 
