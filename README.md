@@ -7,14 +7,14 @@ You kinda walk fast to watch out on that. I have been slowly making raycasters a
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/7be2a422-4e4e-454c-a1d5-b4cd99c126e9" alt="Cornstarch <3" width="55" height="49">
 
 
 **The Breakdown:**
 
 
 
-<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/e1106c40-2320-4748-be36-c4aff6276c13" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
 
