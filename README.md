@@ -28,3 +28,7 @@ You kinda walk fast to watch out on that. I have been slowly making raycasters a
 ![3DRaster2](https://github.com/Kingerthanu/RayCasting/assets/76754592/a5473ce6-a789-43f7-8d93-8b47a2ea7eea)
 ![3DRasterFar1](https://github.com/Kingerthanu/RayCasting/assets/76754592/a4d532b6-684f-4b5d-bc23-bd8e73870a97)
 ![3DRasterFar2](https://github.com/Kingerthanu/RayCasting/assets/76754592/1bd47685-3b16-4ad6-8b45-6ee3219bca45)
+
+
+
+<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/07761638-8ddc-418e-a6fc-60e70c7b0d8f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/07761638-8ddc-418e-a6fc-60e70c7b0d8f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/07761638-8ddc-418e-a6fc-60e70c7b0d8f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/07761638-8ddc-418e-a6fc-60e70c7b0d8f" alt="Cornstarch <3" width="55" height="49">
