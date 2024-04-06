@@ -18,6 +18,11 @@ You kinda walk fast to watch out on that. I have been slowly making raycasters a
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/67926ce6-45d1-4f01-b045-9d6d7d523325" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/67926ce6-45d1-4f01-b045-9d6d7d523325" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/67926ce6-45d1-4f01-b045-9d6d7d523325" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/67926ce6-45d1-4f01-b045-9d6d7d523325" alt="Cornstarch <3" width="55" height="49">
+
+
+**Features:**
+
 ![2024-01-0923-37-28-ezgif com-optimize](https://github.com/Kingerthanu/RayCasting/assets/76754592/5ff253b4-c88e-485d-aeb0-b7c9847e5ccf)
 ![3DRaster1](https://github.com/Kingerthanu/RayCasting/assets/76754592/039fcd9b-f984-4cd1-bae4-c0d142ebce6e)
 ![3DRaster2](https://github.com/Kingerthanu/RayCasting/assets/76754592/a5473ce6-a789-43f7-8d93-8b47a2ea7eea)
