@@ -1,4 +1,5 @@
-# RayCasting
+# CPP_RayCasting
+
 Old project where I was testing Some russian video on Raycasting. 
 
 <img src="https://github.com/Kingerthanu/RayCasting/assets/76754592/8a2bde70-3ab0-4929-8b61-12c439003e32" alt="Cornstarch <3" width="55" height="59">
