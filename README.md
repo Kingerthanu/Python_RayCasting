@@ -1,4 +1,4 @@
-# CPP_RayCasting
+# Python_RayCasting
 
 Old project where I was testing Some russian video on Raycasting. 
 
